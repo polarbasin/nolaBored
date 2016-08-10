@@ -42,8 +42,15 @@
   },
   "devDependencies": {
     "concurrently": "^2.0.0",
+    "eslint": "^3.0.1",
+    "eslint-config-airbnb": "^10.0.0",
+    "eslint-config-airbnb-base": "^5.0.1",
+    "eslint-plugin-import": "^1.10.3",
+    "eslint-plugin-jsx-a11y": "^1.2.0",
+    "eslint-plugin-react": "^5.0.1",
+    "express": "^4.14.0",
     "lite-server": "^2.2.0",
     "typescript": "^1.8.10",
-    "typings":"^1.0.4"
+    "typings": "^1.0.4"
   }
 }
