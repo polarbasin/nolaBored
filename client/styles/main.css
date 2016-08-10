@@ -1,0 +1,23 @@
+* {
+  color: #966F33;
+  text-shadow: 0 10px 10px #B37925;
+}
+
+.container {
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 17px 0 18px;
+  height: 0;
+}
+
+table {
+  font-size: 1.5em;
+  background-image: ;
+  border-top: solid #000;
+  border-left: solid #000;
+  border-right: solid #000;
+  border-bottom: solid #000;
+}
+
+
+
