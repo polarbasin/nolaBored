@@ -9,7 +9,9 @@
     "postinstall": "typings install",
     "tsc": "tsc",
     "tsc:w": "tsc -w",
-    "typings": "typings"
+    "typings": "typings",
+    "test": "npm test",
+    "server": "nodemon server/index.js"
   },
   "repository": {
     "type": "git",
@@ -34,6 +36,7 @@
     "@angular/upgrade": "2.0.0-rc.5",
     "systemjs": "0.19.27",
     "core-js": "^2.4.0",
+    "pg": "^6.0.4",
     "reflect-metadata": "^0.1.3",
     "rxjs": "5.0.0-beta.6",
     "zone.js": "^0.6.12",
