@@ -6,14 +6,52 @@ import { AppCtrl } from './controllers/app'
   <div class="container" ng-controller="AppCtrl">
     <div class="events">
       <div class="row" ng-repeat="event in events">
-        <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-        <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-        <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-        <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-        <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-        <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+      </div>
+      <div class="row" ng-repeat="event in events">
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+      </div>
+      <div class="row" ng-repeat="event in events">
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+      </div>
+      <div class="row" ng-repeat="event in events">
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+      </div>
+      <div class="row" ng-repeat="event in events">
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
+        <div class="col-md-2">Event</div>
       </div>
     </div>
   </div>`
 })
 export class AppComponent { }
+        // <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
+        // <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
+        // <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
+        // <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
+        // <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
+        // <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>

@@ -1,3 +1,4 @@
+const angular = require('angular');
 const App = angular.module('App', []);
 App.controller('AppCtrl', ['$scope', '$http', function ($scope, $http) {
     const refreshBoard = function () {

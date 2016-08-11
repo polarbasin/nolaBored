@@ -1,4 +1,5 @@
 "use strict";
+var angular = require('angular');
 var App = angular.module('App', []);
 App.controller('AppCtrl', ['$scope', '$http', function ($scope, $http) {
         var refreshBoard = function () {
