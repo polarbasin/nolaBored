@@ -1,23 +1,28 @@
 * {
-  color: #966F33;
-  text-shadow: 0 10px 10px #B37925;
+  color: black;
+  font-family: cursive;
+  text-shadow: -0.1em 0.2em 0.4em #999;
+  border: solid red;
 }
 
 .container {
-  background-repeat: no-repeat;
-  background-position: center;
   margin: 17px 0 18px;
-  height: 0;
+}
+
+tbody {
+  word-wrap: break-word;
 }
 
 table {
+  /* background-image: url(http://new.graphicpanic.com/wp-content/uploads/2015/06/bulletin-board-background.jpg); */
   font-size: 1.5em;
-  background-image: ;
+  height: 100%;
+  width: 100%;
+  padding-right: 100px;
+  padding-left: 100px;
+  background-color: white;
   border-top: solid #000;
   border-left: solid #000;
   border-right: solid #000;
   border-bottom: solid #000;
 }
-
-
-
