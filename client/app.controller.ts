@@ -1,4 +1,5 @@
-import {HTTP_BINDINGS, Http} from '@angular/http';
+import { HTTP_BINDINGS, Http } from '@angular/http';
+import { EventService } from './app.service';
 
 export class AppController {
   events: Event[];
@@ -9,8 +10,7 @@ export class AppController {
 
   getEvents() {
     this.eventService.getEvents().subscribe(
-         events => this.events = events,
-         error => this.errorMessage = <any>error);
+         events => this.events = events);
   }
 
   active:boolean = false;

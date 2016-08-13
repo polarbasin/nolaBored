@@ -10,7 +10,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var common_1 = require('@angular/common');
-require('./rxjs-operators');
+require('rxjs-operators.js');
 var AppComponent = (function () {
     function AppComponent() {
     }

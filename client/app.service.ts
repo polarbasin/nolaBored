@@ -1,11 +1,12 @@
 import { Injectable }     from '@angular/core';
 import { Http, Response } from '@angular/http';
-import { Observable }     from 'rxjs-es/Observable';
+import { Observable }     from 'rxjs/Observable';
+
 @Injectable()
 export class EventService {
   constructor (private http: Http) {}
   private eventsUrl = 'api/events';  // URL to web API
-  getEvents (): Observable<Event[]> {
+  getEvents(): Observable<Event[]> {
     return this.http.get(this.eventsUrl)
                     .map(this.extractData)
                     .catch(this.handleError);
@@ -15,9 +16,9 @@ export class EventService {
     return body.data || { };
   }
   private handleError (error: any) {
-    let errMsg = (error.message) ? error.message :
+    let errorMessage = (error.message) ? error.message :
       error.status ? `${error.status} - ${error.statusText}` : 'Server error';
-    console.error(errMsg);
-    return Observable.throw(errMsg);
+    console.error(errorMessage);
+    return Observable.throw(errorMessage);
   }
 }

@@ -1,7 +1,8 @@
 import { AppController } from './app.controller';
 import { Component }     from '@angular/core';
 import { NgFor }         from '@angular/common';
-import './rxjs-operators';
+import { bootstrap }     from '@angular/platform-browser-dynamic';
+import 'rxjs-operators.js';
 @Component({
   selector: 'app',
   template:
