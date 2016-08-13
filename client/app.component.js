@@ -15,17 +15,11 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'app',
-            template: "<div class=\"col-md-12\" id=\"header\"><h1>BORED</h1></div>\n  <div class=\"container\" ng-controller=\"AppCtrl\">\n    <div class=\"events\">\n      <div class=\"row\" ng-repeat=\"event in events\">\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n      </div>\n      <div class=\"row\" ng-repeat=\"event in events\">\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n      </div>\n      <div class=\"row\" ng-repeat=\"event in events\">\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n      </div>\n      <div class=\"row\" ng-repeat=\"event in events\">\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n      </div>\n      <div class=\"row\" ng-repeat=\"event in events\">\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n        <div class=\"col-md-2\">Event</div>\n      </div>\n    </div>\n  </div>"
+            template: "<div class=\"col-md-12\" id=\"header\"><h1>BORED<span class=\"question\">?</span></h1></div>\n  <div class=\"container\" ng-controller=\"AppCtrl\">\n    <div class=\"events\">\n      <div class=\"row\" ngrepeat=\"event in events\">\n        <div class=\"col-md-3\" ng-mouseover=\"moreDetails()\">{{event}}</div>\n        <div class=\"col-md-3\" ng-mouseover=\"moreDetails()\">{{event}}</div>\n        <div class=\"col-md-3\" ng-mouseover=\"moreDetails()\">{{event}}</div>\n        <div class=\"col-md-3\" ng-mouseover=\"moreDetails()\">{{event}}</div>\n      </div>\n    </div>\n  </div>"
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
     return AppComponent;
 }());
 exports.AppComponent = AppComponent;
-// <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-// <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-// <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-// <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-// <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div>
-// <div class="col-md-2" ng-mouseover="moreDetails()">{{event}}</div> 
 //# sourceMappingURL=app.component.js.map

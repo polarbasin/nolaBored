@@ -1,33 +1,92 @@
-* {
+h1 {
+  color: #111111;
   font-family: monaco, Consolas, "Lucida Console", monospace;
-  border: solid;
-  border-color: #00FF99;
+  background-color: white;
+  min-height: 1em;
+  font-size: 10em; 
+  font-weight: bold;
+  letter-spacing: -1px; 
+  line-height: 1em; 
+  text-align: center;
+  border-radius: 1px;
+  z-index: 100;
+  position: absolute;
+  -webkit-box-shadow: 0 10px 10px black;
+  -moz-box-shadow: 0 10px 10px black;
+  box-shadow: 0 10px 10px black;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
 }
 
-h1 {
-  color: white;
-  text-align: center;
-  background-color: black;
+.question {
+  color: #00506b;
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #00506b;
+  color: transparent;
+  text-shadow: 0px 2px 3px rgba(255,255,255,0.2);
+  -webkit-background-clip: text;
+     -moz-background-clip: text;
+          background-clip: text;
+}
+
+.container {
+  padding: 0;
+  margin-top: 15em;
+}
+
+.row {
+  margin: 0;
+}
+
+.events {
+  height: auto;
+  width: auto;
+  display: block;
+}
+
+#event {
+  min-height: 10em;
+  min-width: 10em;
+  color: black;
+  padding: 0;
+  -webkit-transition:  All 1s ease-in-out;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1); 
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1); 
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1);
+  transition: all 200ms ease-in;
+  transform: scale(1);  
+  position: relative;
+}
+
+#event:hover {
+  box-shadow: 0px 0px 150px #000000;
+  z-index: 2;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1.5);
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1.5);   
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1.5);
+  transition: all 200ms ease-in;
+  transform: scale(1.5);
 }
 
 body {
   background-color: black;
   text-align: center;
   color: white;
-}
-
-.events {
-  background-color: white;
-  width: auto;
-  height: auto;
-}
-
-.row {
-
+  background-color: #00506b;
 }
 
 #header {
   position: absolute;
+  padding-left: 27em;
   top: 0;
   left: 0;
   right: 0;
@@ -36,7 +95,6 @@ body {
   z-index: -1;
 }
 
-.container {
-  padding: 10em;
-  width: auto;
+
+* {
 }
