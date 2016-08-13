@@ -21,6 +21,14 @@ h1 {
   transform: rotate(-3deg);
 }
 
+.loading {
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+  color: white;
+  font-size: 2em;
+  text-align: center;
+  position: relative;
+}
+
 .question {
   color: #00506b;
   font-family: 'Helvetica Neue', sans-serif;

@@ -15,6 +15,8 @@ var db = require('./dbConnect');
 
 app.use('/', express.static('client/'));
 
+app.use('/events', express.static('client/'));
+
 app.use('/client/index.js', express.static('client/index.js'));
 
 app.use('/client/app.module.js', express.static('client/app.module.js'));
