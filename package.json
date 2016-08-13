@@ -2,6 +2,9 @@
   "name": "glacialpeak",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "6.2.2"
+  },
   "main": "index.js",
   "scripts": {
     "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
