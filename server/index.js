@@ -1,21 +1,21 @@
 const express = require('express');
 const path = require('path');
 const app = express();
-var morgan = require('morgan');
-var rp = require('request-promise');
-var $ = require("jquery");
-var bodyParser = require('body-parser');
+const morgan = require('morgan');
+const rp = require('request-promise');
+const $ = require("jquery");
+const bodyParser = require('body-parser');
 app.use(morgan('dev'));
-var jsonParser = bodyParser.json();
+const jsonParser = bodyParser.json();
 app.use(bodyParser.urlencoded({ extended: false }));
-var saveEvent = require('../controllers/eventController');
-var FeedMe = require('feedme')
+const saveEvent = require('../controllers/eventController');
+const FeedMe = require('feedme')
   , parser = new FeedMe()
   , fs = require('fs');
 
-var mongoose = require('mongoose');
+const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost:27017/events');
-var db = mongoose.connection;
+const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function() {
   console.log('we got connected');
