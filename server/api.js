@@ -8,3 +8,5 @@ $.get('http://www.bestofneworleans.com/gambit/Rss.xml?section=1222783', function
         console.log("description: " + el.find("description").text());
     });
 });
+
+
