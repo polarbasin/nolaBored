@@ -1,3 +1,5 @@
+const express = require('express');
 module.exports.create = function(req, res) {
-  console.log(req.body);
+  let a = console.log('Hello');
+  res.send(a);
 }

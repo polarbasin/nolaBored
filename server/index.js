@@ -1,36 +1,53 @@
 const express = require('express');
 const path = require('path');
 const app = express();
-var router = express.Router();
-var morgan = require('morgan');
-var $ = require("jquery");
-var bodyParser = require('body-parser');
-app.use(morgan('dev'));
+const router = express.Router();
+const morgan = require('morgan');
+const $ = require("jquery");
+const bodyParser = require('body-parser');
 const jsonParser = bodyParser.json();
+const rss = require('./rss.js');
+const eventController = require('../controllers/eventControll');
+const db = require('./dbConnect');
+const Event = require('../models/Event.js');
+
+app.use(morgan('dev'));
+
 app.use(bodyParser.urlencoded({ extended: false }));
-var rss = require('./rss.js');
-var eventController = require('../controllers/eventControll');
-var db = require('./dbConnect');
 
-
-app.use('/', express.static('client/'));
-
-app.use('/client/index.js', express.static('client/index.js'));
-
-app.use('/client/app.module.js', express.static('client/app.module.js'));
-
-app.use('/client/app.component.js', express.static('client/app.component.js'));
+app.use('/', express.static('client/')); 
 
 app.use('/node_modules', express.static('node_modules/'));
 
-app.post('/api/events', eventController.create )
+app.get('/api/events', (req,res) => {
+  Event.find((err, event) => {
+    if(err) res.send(err);
+    else    res.json(event);
+  })
+
+});
+
+
+// app.use('/client/index.js', express.static('client/index.js'));
+
+// app.use('/client/app.module.js', express.static('client/app.module.js'));
+
+// app.use('/client/app.routes.js', express.static('client/app.routes.js'));
+
+// app.use('/client/event.service.js', express.static('client/event.service.js'));
+
+// app.use('/client/app.component.js', express.static('client/app.component.js'));
+
+// app.use('/client/rxjs-operators.js', express.static('client/rxjs-operators.js'));
+
+// app.use('/client/event-list.component.js', express.static('client/event-list.component.js'));
 
 const port = process.env.PORT || 4657;
 
 
 //these lines will parse the information out of the file where we load the rss fead
 
-var feed = 'http://www.bestofneworleans.com/gambit/Rss.xml?section=1222783';
+const feed = 'http://www.bestofneworleans.com/gambit/Rss.xml?section=1222783';
 rss.requestRSS(feed);
 
 

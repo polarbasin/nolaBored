@@ -20,9 +20,7 @@
     <script src="node_modules/systemjs/dist/system.src.js"></script>
     <!-- 2. Configure SystemJS -->
     <script src="/systemjs.config.js"></script>
-
     <link href="styles/main.css" rel="stylesheet">
-    
     <script>
       System.import('app').catch((err) => {
         console.error(err); 
@@ -31,6 +29,8 @@
   </head>
   <!-- 3. Display the application -->
   <body>
-    <app><img src="styles/loading.gif"><span>Loading...</span></app>
+    <app><div><img src="styles/loading.gif"></div>
+         <span class="loading">Loading...</span>
+    </app>
   </body>
 </html>

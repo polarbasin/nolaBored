@@ -9,13 +9,16 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
+var common_1 = require('@angular/common');
+require('rxjs-operators.js');
 var AppComponent = (function () {
     function AppComponent() {
     }
     AppComponent = __decorate([
         core_1.Component({
             selector: 'app',
-            template: "<div class=\"col-md-12\" id=\"header\"><h1>BORED<span class=\"question\">?</span></h1></div>\n  <div class=\"container\" ng-controller=\"AppCtrl\">\n    <div class=\"events\">\n      <div class=\"row\" ngrepeat=\"event in events\">\n        <div class=\"col-md-3\" ng-mouseover=\"moreDetails()\">{{event}}</div>\n        <div class=\"col-md-3\" ng-mouseover=\"moreDetails()\">{{event}}</div>\n        <div class=\"col-md-3\" ng-mouseover=\"moreDetails()\">{{event}}</div>\n        <div class=\"col-md-3\" ng-mouseover=\"moreDetails()\">{{event}}</div>\n      </div>\n    </div>\n  </div>"
+            template: "<div class=\"col-md-12\" id=\"header\"><h1>BORED<span class=\"question\">?</span></h1></div>\n    <base href=\"/\">\n    <div class=\"container\">\n      <div class=\"events\">\n        <div class=\"row\" *ngFor=\"let event of events\">\n          <div class=\"col-md-3\">{{event}}</div>\n          <div class=\"col-md-3\">{{event}</div>\n          <div class=\"col-md-3\">{{event}}</div>\n          <div class=\"col-md-3\">{{event}</div>\n        </div>\n      </div>\n   </div>\n   <div class=\"error\" *ngIf=\"errorMessage\">{{errorMessage}}</div>",
+            directives: [common_1.NgFor],
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
