@@ -17,8 +17,8 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'app',
-            template: "<div class=\"col-md-12\" id=\"header\"><h1>BORED<span class=\"question\">?</span></h1></div>\n    <div class=\"container\" ng-controller=\"AppController\">\n      <div class=\"events\">\n        <div class=\"row\" *ngFor=\"let event of events\">\n          <div class=\"col-md-3\">{{event.title}}</div>\n          <div class=\"col-md-3\">{{event.title}}</div>\n          <div class=\"col-md-3\">{{event.title}}</div>\n          <div class=\"col-md-3\">{{event.title}}</div>\n        </div>\n      </div>\n   </div>\n   <div class=\"error\" *ngIf=\"errorMessage\">{{errorMessage}}</div>",
-            directives: [common_1.NgFor]
+            template: "<div class=\"col-md-12\" id=\"header\"><h1>BORED<span class=\"question\">?</span></h1></div>\n    <base href=\"/\">\n    <div class=\"container\">\n      <div class=\"events\">\n        <div class=\"row\" *ngFor=\"let event of events\">\n          <div class=\"col-md-3\">{{event}}</div>\n          <div class=\"col-md-3\">{{event}</div>\n          <div class=\"col-md-3\">{{event}}</div>\n          <div class=\"col-md-3\">{{event}</div>\n        </div>\n      </div>\n   </div>\n   <div class=\"error\" *ngIf=\"errorMessage\">{{errorMessage}}</div>",
+            directives: [common_1.NgFor],
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);

@@ -23,13 +23,14 @@ var EventService = (function () {
     };
     EventService.prototype.extractData = function (res) {
         var body = res.json();
+        console.log(body);
         return body.data || {};
     };
     EventService.prototype.handleError = function (error) {
-        var errorMessage = (error.message) ? error.message :
+        var errMsg = (error.message) ? error.message :
             error.status ? error.status + " - " + error.statusText : 'Server error';
-        console.error(errorMessage);
-        return Observable_1.Observable.throw(errorMessage);
+        console.error(errMsg); // log to console
+        return Observable_1.Observable.throw(errMsg);
     };
     EventService = __decorate([
         core_1.Injectable(), 
@@ -38,4 +39,4 @@ var EventService = (function () {
     return EventService;
 }());
 exports.EventService = EventService;
-//# sourceMappingURL=app.service.js.map
+//# sourceMappingURL=eventservice.component.js.map
