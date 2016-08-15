@@ -15,6 +15,7 @@ app.use(morgan('dev'));
 
 app.use(bodyParser.urlencoded({ extended: false }));
 
+
 app.use('/', express.static('client/')); 
 
 app.use('/node_modules', express.static('node_modules/'));
@@ -32,6 +33,7 @@ app.use('/client/app.component.js', express.static('client/app.component.js'));
 app.use('/client/rxjs-operators.js', express.static('client/rxjs-operators.js'));
 
 app.use('/client/datatypes/event.js', express.static('client/datatypes/event.js'));
+
 
 app.get('/api/events', (req,res) => {
   Event.find((err, event) => {
