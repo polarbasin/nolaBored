@@ -1,5 +1,5 @@
-import { Injectable }        from 'angular2/core';
-import { Http, Response }    from 'angular2/http';
+import { Injectable }        from '@angular/core';
+import { Http, Response }    from '@angular/http';
 import { Event }             from './datatypes/event';
 import 'rxjs/add/operator/map';
 
@@ -32,11 +32,3 @@ export class EventService {
    return Promise.reject(errMsg);
   }
 }
-
-constructor(eventService:EventService) {
-     eventService.events.subscribe(
-         events => this.events = events,
-         error => console.error('error ' + error),
-         () => console.log('completed')
-       );
-  }

@@ -111,7 +111,7 @@
       <managingEditor>response@gambitweekly.com (Gambit Editor)</managingEditor>
       <webMaster>vip@gambitweekly.com (Gambit Webmaster)</webMaster>
       <pubDate>Mon, 15 Aug 2016 00:00:01 -0500</pubDate>
-      <lastBuildDate>Mon, 15 Aug 2016 01:00:00 -0500</lastBuildDate>
+      <lastBuildDate>Mon, 15 Aug 2016 15:00:00 -0500</lastBuildDate>
       <generator>Foundation</generator>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       
@@ -128,6 +128,177 @@
           <width>144</width>
         </image>
       
+      
+        <item>
+    <title>Review: Ragtime</title>
+    <link>http://www.bestofneworleans.com/gambit/review-ragtime/Content?oid=3008194</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-ragtime/Content?oid=3008194</guid>
+
+    
+    
+      <dc:creator>Mary Rickard</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      Cripple Creek hits the notes of rapid, sometimes violent change at the turn of the century
+              
+              Cripple Creek Theatre Co.&#39;s production of Ragtime, a large-scale musical that premiered 
+in 1996 and is based on the bestselling novel about turn-of-the century America by E.L. Doctorow, has much to say about our nation&#39;s current strengths and challenges. Ragtime 
+is a testament to the U. S.&#39;s proud legacy of immigration, civil rights, feminism, social justice, industrialization and 
+labor movements.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-ragtime/Content?oid=3008194&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3008194
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 15 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Breaking the Banks: rap &#x201C;underdog&#x201D; Alfred Banks</title>
+    <link>http://www.bestofneworleans.com/gambit/breaking-the-banks-rap-underdog-alfred-banks/Content?oid=3008167</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/breaking-the-banks-rap-underdog-alfred-banks/Content?oid=3008167</guid>
+
+    
+    
+      <dc:creator>Alex Woodward</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      The New Orleans rapper tears away at mental health stigma on his rise in hip-hop
+              
+              On &quot;March 20, 2014,&quot; Alfred Banks recreates a phone call with his mother, unleashing an avalanche of emotions and grappling with his brother&#39;s schizophrenia and suicide. &#x2002;&#x2002;&quot;Everything was going super smooth,&quot; he raps in the song&#39;s opening line, setting up the inevitable.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Events Feature</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/breaking-the-banks-rap-underdog-alfred-banks/Content?oid=3008167&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3008167
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 15 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Food events in New Orleans this week (Aug.16-21, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug16-21-2016/Content?oid=3008103</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug16-21-2016/Content?oid=3008103</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      
+      Aug 16Sake Hop5:30 p.m.-8:30 p.m. Tuesday21st Amendment at La Louisiane, Hotel Mazarin, 725 Bienville St.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug16-21-2016/Content?oid=3008103&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3008103
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 15 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: James Flynn&#x2019;s Quantum Nous at Callan Contemporary</title>
+    <link>http://www.bestofneworleans.com/gambit/review-james-flynns-quantum-nous-at-callan-contemporary/Content?oid=3008092</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-james-flynns-quantum-nous-at-callan-contemporary/Content?oid=3008092</guid>
+
+    
+    
+      <dc:creator>D. Eric Bookhardt</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      Quantum physics visualized as psychedelic art
+              
+              What does the Mississippi River have to do with quantum physics? That is a deep question.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Art Review</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-james-flynns-quantum-nous-at-callan-contemporary/Content?oid=3008092&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3008092
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 15 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
       
         <item>
     <title>Live theater and comedy events in New Orleans this week (Aug. 9-15, 2016)</title>
@@ -995,170 +1166,6 @@
     </slash:comments>
 
     <pubDate>Mon, 18 Jul 2016 16:00:00 -0500</pubDate>
-    <source url="http://www.bestofneworleans.com">Gambit</source>
-  </item>
-      
-        <item>
-    <title>Live theater in New Orleans this week (July 12-18, 2016)</title>
-    <link>http://www.bestofneworleans.com/gambit/live-theater-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987620</link>
-    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/live-theater-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987620</guid>
-
-    
-    
-
-    <description>
-      
-      
-
-      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2988166/innocents-3-1466783229.jpg&quot; width=&quot;190&quot; height=&quot;190&quot; style=&quot;display:block; float:right;&quot; /&gt;
-      The Wizard of OzThu.-Sun. July 14-24 | Gary Rucker directs the musical adaptation of Frank Baum&#39;s classic tale in which Dorothy hopes the Wizard of Oz can help her return home to Kansas.&#x2026;
-      
-    </description>
-
-    
-    
-      <category domain="foundation:category">Stage Previews and Reviews</category>
-    
-
-    
-
-    
-    <comments>
-      http://www.bestofneworleans.com/gambit/live-theater-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987620&amp;show=comments#readerComments
-    </comments>
-    <wfw:commentRss>
-      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2987620
-    </wfw:commentRss>
-    <slash:comments>
-      0
-    </slash:comments>
-
-    <pubDate>Mon, 11 Jul 2016 15:00:00 -0500</pubDate>
-    <source url="http://www.bestofneworleans.com">Gambit</source>
-  </item>
-      
-        <item>
-    <title>Food events in New Orleans this week (July 12-18, 2016)</title>
-    <link>http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987615</link>
-    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987615</guid>
-
-    
-    
-
-    <description>
-      
-      
-
-      &lt;img src=&quot;http://media2.fdncms.com/gambit/imager/u/blog/2988170/food.jpg&quot; width=&quot;150&quot; height=&quot;104&quot; style=&quot;display:block; float:right;&quot; /&gt;
-      July 14Bastille Day Celebration6 p.m-10 p.m. ThursdayArnaud&#39;s Restaurant, 813 Conti St., (504) 523-5433www.arnaudsrestaurant.comThe prixe fixe menu marking Bastille Day includes canapes and a Parisian spritz cocktail and a four-course meal paired with French wines.&#x2026;
-      
-    </description>
-
-    
-    
-      <category domain="foundation:category">New Orleans Event Previews</category>
-    
-
-    
-
-    
-    <comments>
-      http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987615&amp;show=comments#readerComments
-    </comments>
-    <wfw:commentRss>
-      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2987615
-    </wfw:commentRss>
-    <slash:comments>
-      0
-    </slash:comments>
-
-    <pubDate>Mon, 11 Jul 2016 15:00:00 -0500</pubDate>
-    <source url="http://www.bestofneworleans.com">Gambit</source>
-  </item>
-      
-        <item>
-    <title>The NOLA Project premieres immersive poolside play Exterior. Pool-Night</title>
-    <link>http://www.bestofneworleans.com/gambit/the-nola-project-premieres-immersive-poolside-play-exterior-pool-night/Content?oid=2987608</link>
-    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/the-nola-project-premieres-immersive-poolside-play-exterior-pool-night/Content?oid=2987608</guid>
-
-    
-    
-      <dc:creator>Lauren LaBorde</dc:creator>
-    
-
-    <description>
-      
-      
-
-      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2988169/7inseven.jpg&quot; width=&quot;599&quot; height=&quot;399&quot; /&gt;
-      The theater company blurs the lines between actor and audience
-              
-              At a run-through of The NOLA Project&#39;s newest original play, Exterior. Pool-Night, there&#39;s more to work out than nailing lines and figuring out blocking.&#x2026;
-      
-    </description>
-
-    
-    
-      <category domain="foundation:category">Events Feature</category>
-    
-
-    
-
-    
-    <comments>
-      http://www.bestofneworleans.com/gambit/the-nola-project-premieres-immersive-poolside-play-exterior-pool-night/Content?oid=2987608&amp;show=comments#readerComments
-    </comments>
-    <wfw:commentRss>
-      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2987608
-    </wfw:commentRss>
-    <slash:comments>
-      0
-    </slash:comments>
-
-    <pubDate>Mon, 11 Jul 2016 15:00:00 -0500</pubDate>
-    <source url="http://www.bestofneworleans.com">Gambit</source>
-  </item>
-      
-        <item>
-    <title>Review: The Killing of a Lesbian Bookie</title>
-    <link>http://www.bestofneworleans.com/gambit/review-the-killing-of-a-lesbian-bookie/Content?oid=2987589</link>
-    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-the-killing-of-a-lesbian-bookie/Content?oid=2987589</guid>
-
-    
-    
-      <dc:creator>Will Coviello</dc:creator>
-    
-
-    <description>
-      
-      
-
-      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2988178/stage-160712-1.jpg&quot; width=&quot;599&quot; height=&quot;399&quot; /&gt;
-      Jim Fitzmorris delivers a fast, smart and titillating crime story
-              
-              The title of Jim Fitzmorris&#39; latest drama, The Killing of a Lesbian Bookie, is racy, but it isn&#39;t long enough to accommodate all the crime, vice and prurience that quickly spilled onstage at The Theatre at St. Claude. Burlesque star Triple Lexxxi is preparing for the opening night of her bar and club a when beer purveyor, nicknamed Irish, drops by with what turns out to be an offer that&#39;s hard to refuse.&#x2026;
-      
-    </description>
-
-    
-    
-      <category domain="foundation:category">Stage Previews and Reviews</category>
-    
-
-    
-
-    
-    <comments>
-      http://www.bestofneworleans.com/gambit/review-the-killing-of-a-lesbian-bookie/Content?oid=2987589&amp;show=comments#readerComments
-    </comments>
-    <wfw:commentRss>
-      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2987589
-    </wfw:commentRss>
-    <slash:comments>
-      0
-    </slash:comments>
-
-    <pubDate>Mon, 11 Jul 2016 15:00:00 -0500</pubDate>
     <source url="http://www.bestofneworleans.com">Gambit</source>
   </item>
       
