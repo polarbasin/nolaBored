@@ -3,7 +3,6 @@
   var map = {
     'app':                        'client',
     '@angular':                   'node_modules/@angular',
-    'angular2':                   'node_modules/angular2',
     'angular2-in-memory-web-api': 'node_modules/angular2-in-memory-web-api',
     'rxjs':                       'node_modules/rxjs'
   };

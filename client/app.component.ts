@@ -1,19 +1,23 @@
 import { Component, OnInit }     from '@angular/core';
 import { NgFor }                 from '@angular/common';
 import { bootstrap }             from '@angular/platform-browser-dynamic';
-import { Http, Response }        from 'angular2/http';
+import { Http, Response }        from '@angular/http';
 import { EventService }          from './event.service';
 import { Event }                 from './datatypes/event';
-import 'rxjs-operators.js';
 
 @Component({
   selector: 'app',
+  providers: [ EventService ], 
   template:
   `<div class="col-md-12" id="header"><h1>BORED<span class="question">?</span></h1></div>
     <div class="container">
       <div class="events">
         <div class="row">
-          <div class="col-md-3" id="event" *ngFor="let event of events">{{ event.title }} {{ event.location }} {{ event.description }}</div>
+          <div class="col-md-3" id="event" *ngFor="let event of events">
+          {{ event.title }} 
+          {{ event.location }} 
+          {{ event.description }}
+          </div>
         </div>
       </div>
    </div>`,
@@ -24,25 +28,25 @@ export class AppComponent implements OnInit {
   public errorMessage: any;
   public events: any;
 
+
   constructor(private eventService:EventService) {
      eventService.events.subscribe(
          events => this.events = events,
          error => console.error('error ' + error),
-         () => console.log('completed')
+         () => console.log('Completed!')
        );
   }
 
   ngOnInit() {
     console.log('Initialized!');
-    this.getEvents();
   }
 
-  getEvents() {
-    this.eventService.getEvents().then(
-      events => this.events = events,
-      error => this.errorMessage = <any>error
-      );
-  }
+  // getEvents() {
+  //   this.eventService.getEvents().then(
+  //     events => this.events = events,
+  //     error => this.errorMessage = <any>error
+  //     );
+  // }
 
 }
 

@@ -3,6 +3,12 @@
     <title>BORED?</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <!-- 3. Display the application -->
+  <body>
+    <app><div><img src="styles/loading.gif"></div>
+         <span class="loading">Loading...</span>
+    </app>
     <script src="/node_modules/jquery/dist/jquery.min.js"></script>
 
     <!-- Latest compiled and minified CSS -->
@@ -22,18 +28,9 @@
     <script src="/systemjs.config.js"></script>
     <link href="styles/main.css" rel="stylesheet">
     <script>
-      System.import('app').then(() => {
-        let events = $.get('api/events');
-        console.log(events);
-      }).catch((err) => {
+      System.import('app').catch((err) => {
         console.error(err); 
       });
     </script>
-  </head>
-  <!-- 3. Display the application -->
-  <body>
-    <app><div><img src="styles/loading.gif"></div>
-         <span class="loading">Loading...</span>
-    </app>
   </body>
 </html>
