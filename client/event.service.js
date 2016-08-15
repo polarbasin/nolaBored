@@ -8,7 +8,6 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-var _this = this;
 var core_1 = require('angular2/core');
 var http_1 = require('angular2/http');
 require('rxjs/add/operator/map');
@@ -42,8 +41,4 @@ var EventService = (function () {
     return EventService;
 }());
 exports.EventService = EventService;
-constructor(eventService, EventService);
-{
-    eventService.events.subscribe(function (events) { return _this.events = events; }, function (error) { return console.error('error ' + error); }, function () { return console.log('completed'); });
-}
 //# sourceMappingURL=event.service.js.map

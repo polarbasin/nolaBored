@@ -32,11 +32,3 @@ export class EventService {
    return Promise.reject(errMsg);
   }
 }
-
-constructor(eventService:EventService) {
-     eventService.events.subscribe(
-         events => this.events = events,
-         error => console.error('error ' + error),
-         () => console.log('completed')
-       );
-  }

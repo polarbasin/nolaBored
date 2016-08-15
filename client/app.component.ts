@@ -8,24 +8,22 @@ import 'rxjs-operators.js';
 
 @Component({
   selector: 'app',
-  providers: [ EventService ],
   template:
   `<div class="col-md-12" id="header"><h1>BORED<span class="question">?</span></h1></div>
     <div class="container">
       <div class="events">
         <div class="row">
-          <div class="col-md-3" id="event" *ngFor="let event of events">{{ event.location }}</div>
+          <div class="col-md-3" id="event" *ngFor="let event of events">{{ event.title }} {{ event.location }} {{ event.description }}</div>
         </div>
       </div>
    </div>`,
   directives: [ NgFor ]
 }) 
 
-
 export class AppComponent implements OnInit {
-  errorMessage: string;
-  events: Event[];
-  mode = 'Promise'; 
+  public errorMessage: any;
+  public events: any;
+
   constructor(private eventService:EventService) {
      eventService.events.subscribe(
          events => this.events = events,
@@ -35,6 +33,7 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
+    console.log('Initialized!');
     this.getEvents();
   }
 
@@ -44,6 +43,7 @@ export class AppComponent implements OnInit {
       error => this.errorMessage = <any>error
       );
   }
+
 }
 
 const EVENTS: Event[] = [
