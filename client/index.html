@@ -22,7 +22,10 @@
     <script src="/systemjs.config.js"></script>
     <link href="styles/main.css" rel="stylesheet">
     <script>
-      System.import('app').catch((err) => {
+      System.import('app').then(() => {
+        let events = $.get('api/events');
+        console.log(events);
+      }).catch((err) => {
         console.error(err); 
       });
     </script>

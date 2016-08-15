@@ -7,15 +7,15 @@ import 'rxjs/Rx'; // adds ALL RxJS statics & operators to Observable
 import 'rxjs/add/observable/throw';
 
 // Operators
-import 'rxjs/add/operator/catch.js';
-import 'rxjs/add/operator/debounceTime.js';
-import 'rxjs/add/operator/distinctUntilChanged.js';
-import 'rxjs/add/operator/map.js';
-import 'rxjs/add/operator/switchMap.js';
-import 'rxjs/add/operator/toPromise.js';
-import 'rxjs/util/root.js';
-import 'rxjs/symbol/observable.js';
-import 'rxjs/util/ObjectUnsubscribedError.js';
-import 'rxjs/observable/PromiseObservable.js';
-import 'rxjs/Observable.js';
-import 'rxjs/Subject.js';
+import 'rxjs/add/operator/catch';
+import 'rxjs/add/operator/debounceTime';
+import 'rxjs/add/operator/distinctUntilChanged';
+import 'rxjs/add/operator/map';
+import 'rxjs/add/operator/switchMap';
+import 'rxjs/add/operator/toPromise';
+import 'rxjs/util/root';
+import 'rxjs/symbol/observable';
+import 'rxjs/util/ObjectUnsubscribedError';
+import 'rxjs/observable/PromiseObservable';
+import 'rxjs/Observable';
+import 'rxjs/Subject';

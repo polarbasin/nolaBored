@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  <rss version="2.0"
+       xmlns:atom="http://www.w3.org/2005/Atom"
+       xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+       xmlns:media="http://search.yahoo.com/mrss/"
+       xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+       xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+    <channel>
+      
+      
+
+      <title>Events, Gambit</title>
+      
+        <link>http://www.bestofneworleans.com</link>
+      
+      <atom:link href="http://www.bestofneworleans.com/gambit/Rss.xml?section=1222783" rel="self" type="application/rss+xml" />
+      <description>New Orleans Entertainment and Events Calendar</description>
+      <language>en-us</language>
+      <copyright>Copyright 2016 Gambit. All rights reserved. This RSS file is offered to individuals, Gambit readers, and non-commercial organizations only. Any commercial websites wishing to use this RSS file, please contact Gambit.</copyright>
+      <managingEditor>response@gambitweekly.com (Gambit Editor)</managingEditor>
+      <webMaster>vip@gambitweekly.com (Gambit Webmaster)</webMaster>
+      <pubDate>Mon, 15 Aug 2016 00:00:01 -0500</pubDate>
+      <lastBuildDate>Mon, 15 Aug 2016 01:00:00 -0500</lastBuildDate>
+      <generator>Foundation</generator>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      
+      
+        
+        <image>
+          
+            <link>http://www.bestofneworleans.com</link>
+          
+          <title>Events, Gambit</title>
+          <description>Get the latest New Orleans news, politics, entertainment, music, restaurants and shopping information provided by Gambit newspaper.</description>
+          <url>http://www.bestofneworleans.com/imager/b/rss/808579/a494/adminIcon_gambit.jpg</url>
+          <height>144</height>
+          <width>144</width>
+        </image>
+      
+      
+        <item>
+    <title>Live theater and comedy events in New Orleans this week (Aug. 9-15, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/live-theater-and-comedy-events-in-new-orleans-this-week-aug-9-15-2016/Content?oid=3003592</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/live-theater-and-comedy-events-in-new-orleans-this-week-aug-9-15-2016/Content?oid=3003592</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/3003590/ron_white_0053hi.jpeg&quot; width=&quot;599&quot; height=&quot;898&quot; /&gt;
+      Ron WhiteFri. Aug. 12 | A veteran of both the Blue Collar Comedy Tour and Comedy Central specials, Ron &quot;Tater Salad&quot; White brings his gravel-voiced, cigar-chomping, whiskey-swilling storytelling to New Orleans.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/live-theater-and-comedy-events-in-new-orleans-this-week-aug-9-15-2016/Content?oid=3003592&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3003592
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 08 Aug 2016 10:30:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Brewsiana Craft Beer and Music Festival at 6 p.m. Saturday, Aug. 27</title>
+    <link>http://www.bestofneworleans.com/gambit/house-of-blues/Content?oid=3003555</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/house-of-blues/Content?oid=3003555</guid>
+
+    
+    
+      <dc:creator>Andrea Blumenstein</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      The House of Blues (225 Decatur St., 504-310-4999; www.houseofblues.com/neworleans) celebrates New Orleans&#39; burgeoning local brew scene with the Brewsiana Craft Beer and Music Festival at 6 p.m. Saturday, Aug. 27.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/house-of-blues/Content?oid=3003555&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3003555
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 08 Aug 2016 10:30:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Food events in New Orleans this week (Aug. 9-15, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug-9-15-2016/Content?oid=3003535</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug-9-15-2016/Content?oid=3003535</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/3004924/food.jpg&quot; width=&quot;150&quot; height=&quot;104&quot; style=&quot;display:block; float:right;&quot; /&gt;
+      August 9The Wines of Southern Rhone6 p.m. TuesdayWindsor Court Hotel, 300 Gravier St., (504) 523-6000www.windsorcourthotel.comWindsor Court Hotel sommelier Bill Burkhart hosts a class exploring wines from France&#39;s Rhone region, including Chateauneuf-du-Pape, Cotes du Rhone and Vacqueyras, and the area&#39;s grapes &#x2014; syrah, grenache, mourvedre, cinsault and counoise.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug-9-15-2016/Content?oid=3003535&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3003535
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 08 Aug 2016 10:30:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Red run, red run: Red Dress Run hits the streets for 2016</title>
+    <link>http://www.bestofneworleans.com/gambit/red-run-red-run-red-dress-run-hits-the-streets-for-2016/Content?oid=3003534</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/red-run-red-run-red-dress-run-hits-the-streets-for-2016/Content?oid=3003534</guid>
+
+    
+    
+      <dc:creator>Will Coviello</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      A dressy running club with a cause
+              
+              There are Hash House Harrier running clubs around the world, and they bill themselves as a &quot;drink club with a running problem.&quot; Many hold annual Red Dress Runs, and in New Orleans there is a 2-mile run in which participants wear a red dress or costume and take at whatever pace they choose.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/red-run-red-run-red-dress-run-hits-the-streets-for-2016/Content?oid=3003534&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3003534
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 08 Aug 2016 10:30:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: From the Estate: George Dureau at Arthur Roger Gallery</title>
+    <link>http://www.bestofneworleans.com/gambit/from-the-estate-george-dureau-at-arthur-roger-gallery/Content?oid=3003478</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/from-the-estate-george-dureau-at-arthur-roger-gallery/Content?oid=3003478</guid>
+
+    
+    
+      <dc:creator>D. Eric Bookhardt</dc:creator>
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/3003506/artbox.jpg&quot; width=&quot;599&quot; height=&quot;287&quot; /&gt;
+      The retrospective honors the local artist&#x2019;s impressive legacy
+              
+              Two years after his death, George Dureau is finally getting the recognition he deserved but never really pursued. For an art photographer, having an Aperture Foundation large-format monograph devoted to your work is the gold standard of recognition, and when Aperture published George Dureau, The Photographs last month, it assured his place in photography&#39;s pantheon, a position further enhanced by his inclusion in upcoming museum symposiums at New York&#39;s Museum of Modern Art and elsewhere.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Art Review</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/from-the-estate-george-dureau-at-arthur-roger-gallery/Content?oid=3003478&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3003478
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 08 Aug 2016 10:30:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: The Illusion</title>
+    <link>http://www.bestofneworleans.com/gambit/review-the-illusion/Content?oid=3003474</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-the-illusion/Content?oid=3003474</guid>
+
+    
+    
+      <dc:creator>Mary Rickard</dc:creator>
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media2.fdncms.com/gambit/imager/u/blog/3003519/stagebox.jpg&quot; width=&quot;599&quot; height=&quot;287&quot; /&gt;
+      Strong performances carry Tony Kushner&#x2019;s tragicomedy about the nature of love
+              
+              The Albert Lupin Memorial Theatre is an ideal location for staging The Illusion, a tragicomedy written in 1994 by Tony Kushner (Angels in America), based on a 17th-century play by Pierre Corneille, the influential French dramatist. The black box theater provides the blank slate for imagining three stages of love experienced by a handsome son disowned by his nobleman father.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-the-illusion/Content?oid=3003474&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3003474
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 08 Aug 2016 10:30:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Events in New Orleans this week (Aug. 2-8, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/events-in-new-orleans-this-week-aug-2-8-2016/Content?oid=3000839</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/events-in-new-orleans-this-week-aug-2-8-2016/Content?oid=3000839</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      
+      White Linen NightSat. Aug. 6 | The annual arts district party features show openings at galleries and museums; food and drinks on Julia Street from 5:30 p.m. to 9:30 p.m.; and an after-party at the Contemporary Arts Center with DJ Matty and previews of the center&#39;s 40th anniversary season.
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/events-in-new-orleans-this-week-aug-2-8-2016/Content?oid=3000839&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3000839
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 01 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Hello, Louis: Satchmo SummerFest makes its move</title>
+    <link>http://www.bestofneworleans.com/gambit/hello-louis-satchmo-summerfest-makes-its-move/Content?oid=3000802</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/hello-louis-satchmo-summerfest-makes-its-move/Content?oid=3000802</guid>
+
+    
+    
+      <dc:creator>Zayn Abidin</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      The three-day festival celebrates Louis Armstrong in Jackson Square
+              
+              Kermit Ruffins &amp; the Barbecue Swingers, Dirty Dozen Brass Band, Big Sam&#39;s Funky Nation (pictured), Bill Summers &amp; Jazalsa and others headline Satchmo SummerFest, which celebrates Louis &quot;Satchmo&quot; Armstrong&#39;s birthday in a three-day festival in Jackson Square. &#x2002;&#x2002;The festival moves from its longtime home at the Old U.S. Mint to Jackson Square, and the scholarly portion of the event features talks and film screenings at Le Petit Theatre du Vieux Carre.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/hello-louis-satchmo-summerfest-makes-its-move/Content?oid=3000802&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3000802
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 01 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Food events in New Orleans this week (Aug. 2-8, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug-2-8-2016/Content?oid=3000727</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug-2-8-2016/Content?oid=3000727</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      
+      August 2St. Claude Crawl6 p.m.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-aug-2-8-2016/Content?oid=3000727&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3000727
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 01 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Cripple Creek Theatre presents Ragtime</title>
+    <link>http://www.bestofneworleans.com/gambit/cripple-creek-theatre-presents-ragtime/Content?oid=3000693</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/cripple-creek-theatre-presents-ragtime/Content?oid=3000693</guid>
+
+    
+    
+      <dc:creator>Will Coviello</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      An intimate, timely rendition of the turn-of-the-century American musical
+              
+              The intertwining lives of immigrants reshaping an American city, rich white residents moving out and trying to understand change, new music driving racial mixing, and violence and mistrust between police and people of color are the makings of an epic story. &#x2002;&#x2002;E.L. Doctorow seized upon those elements to write his award-winning 1975 novel Ragtime, about turn of the 20th-century America.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Events Feature</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/cripple-creek-theatre-presents-ragtime/Content?oid=3000693&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3000693
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 01 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: Top Mob at the Ogden Museum of Southern Art</title>
+    <link>http://www.bestofneworleans.com/gambit/review-top-mob-at-the-ogden-museum-of-southern-art/Content?oid=3000690</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-top-mob-at-the-ogden-museum-of-southern-art/Content?oid=3000690</guid>
+
+    
+    
+      <dc:creator>D. Eric Bookhardt</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      A historical survey of local street artists
+              
+              Graffiti is an inescapable facet of urban life that can be annoying or inspiring. In the 1970s, New York City&#39;s graffiti-covered subway cars seemed to signify a great city&#39;s descent into blighted decrepitude, but that same milieu launched the careers of epochal artists such as Keith Haring and Jean-Michel Basquiat, and graffiti was considered a visual equivalent of hip-hop and punk music.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Art Review</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-top-mob-at-the-ogden-museum-of-southern-art/Content?oid=3000690&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3000690
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 01 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: The Rose Tattoo</title>
+    <link>http://www.bestofneworleans.com/gambit/review-the-rose-tattoo/Content?oid=3000687</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-the-rose-tattoo/Content?oid=3000687</guid>
+
+    
+    
+      <dc:creator>Mary Rickard</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      A skilled, intense production of Tennessee William&#x2019;s&#x2019; tale of love and grief at Dillard University
+              
+              Few roles require an actor to express the full range of human emotions, but Serafina delle Rose (Lillian J. Small), the central character of Tennessee Williams&#39; The Rose Tattoo, explores the entire spectrum of misery, anger, jealousy, fear, lust, madness and eventual joy. During her masterful, more-than-two-hour performance, Small never leaves the stage as her character cycles through profound stages of grief after learning her husband Rosario was killed in a traffic accident.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-the-rose-tattoo/Content?oid=3000687&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=3000687
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 01 Aug 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Comedy and theater events in New Orleans this week (July 26-Aug. 1, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/comedy-and-theater-events-in-new-orleans-this-week-july-26-aug-1-2016/Content?oid=2996778</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/comedy-and-theater-events-in-new-orleans-this-week-july-26-aug-1-2016/Content?oid=2996778</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2996777/bigriver.jpg&quot; width=&quot;599&quot; height=&quot;539&quot; /&gt;
+      Big RiverThu.-Sun. July 28-31 | Tulane Summer Lyric Theatre presents the musical based on Mark Twain&#39;s classic Adventures of Huckleberry Finn, which became a Broadway hit a century after the novel was published.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/comedy-and-theater-events-in-new-orleans-this-week-july-26-aug-1-2016/Content?oid=2996778&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2996778
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 25 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: Exterior. Pool-night</title>
+    <link>http://www.bestofneworleans.com/gambit/review-exterior-pool-night/Content?oid=2996659</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-exterior-pool-night/Content?oid=2996659</guid>
+
+    
+    
+      <dc:creator>Mary Rickard</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      The NOLA Project takes a dip into an immersive performance
+              
+              If you want to dip a toe into The NOLA Project&#39;s latest immersive theater experience, be sure to wear a bathing suit, because you might get wet (swimming is welcome after the show). Exterior.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-exterior-pool-night/Content?oid=2996659&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2996659
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 25 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: KOKO&#x2019;s Love: A Soap Opera Tale of One Family and Summer Crush</title>
+    <link>http://www.bestofneworleans.com/gambit/review-kokos-love-a-soap-opera-tale-of-one-family-and-summer-crush/Content?oid=2996655</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-kokos-love-a-soap-opera-tale-of-one-family-and-summer-crush/Content?oid=2996655</guid>
+
+    
+    
+      <dc:creator>D. Eric Bookhardt</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      Yoshie Sakai&#x2019;s Antenna Gallery exhibition and a fantastical group show at The Front
+              
+              Global cities are places where old cultures and newly arrived ethnic groups collide and synthesize into new hybrid communities. The often complicated processes of adjustment are epitomized in California, that state with America&#39;s largest Asian population.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Art Review</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-kokos-love-a-soap-opera-tale-of-one-family-and-summer-crush/Content?oid=2996655&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2996655
+    </wfw:commentRss>
+    <slash:comments>
+      1
+    </slash:comments>
+
+    <pubDate>Mon, 25 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Food and drink events in New Orleans this week (July 26-Aug. 1)</title>
+    <link>http://www.bestofneworleans.com/gambit/food-and-drink-events-in-new-orleans-this-week-july-26-aug-1/Content?oid=2996621</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/food-and-drink-events-in-new-orleans-this-week-july-26-aug-1/Content?oid=2996621</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2997426/food.jpg&quot; width=&quot;150&quot; height=&quot;104&quot; style=&quot;display:block; float:right;&quot; /&gt;
+      July 26Boudin Boogaloo6 p.m.-9 p.m. TuesdayAce Hotel, Barnett Hall, 600 Carondelet St., (504) 900-1180www.acehotel.com/neworleansLucky Peach editor Chris Ying celebrates the release of The Wurst of Lucky Peach.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/food-and-drink-events-in-new-orleans-this-week-july-26-aug-1/Content?oid=2996621&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2996621
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 25 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Live theater and comedy in New Orleans this week (July 19-25, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/live-theater-and-comedy-in-new-orleans-this-week-july-19-25-2016/Content?oid=2992259</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/live-theater-and-comedy-in-new-orleans-this-week-july-19-25-2016/Content?oid=2992259</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2992256/kamari_stevens.jpeg&quot; width=&quot;599&quot; height=&quot;599&quot; /&gt;
+      Requiem for Black Lives: A Comedy Benefit ShowWed. July 20 | Kamari Stevens hosts a comedy show featuring New Orleans comics Jon Reaux, Kaitlin Marone, DC Paul and others to benefit Campaign Zero, a platform for reducing police violence and ensuring accountability.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/live-theater-and-comedy-in-new-orleans-this-week-july-19-25-2016/Content?oid=2992259&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2992259
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 18 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Food events in New Orleans this week (July 19-25)</title>
+    <link>http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-19-25/Content?oid=2992246</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-19-25/Content?oid=2992246</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      
+      July 20Pasta Filata or the Pulled Curd8 p.m. WednesdaySt.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-19-25/Content?oid=2992246&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2992246
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 18 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: The High Priestess of Dark Alley</title>
+    <link>http://www.bestofneworleans.com/gambit/review-the-high-priestess-of-dark-alley/Content?oid=2992238</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-the-high-priestess-of-dark-alley/Content?oid=2992238</guid>
+
+    
+    
+      <dc:creator>Mary Rickard</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      Jackie Alexander helms an entertaining look into a 7th Ward family&#x2019;s complicated relationships
+              
+              One could imagine Janee Michelle channeled Katharine Hepburn for her depiction of the strong-minded Celeste Thibodaux in The High Priestess of Dark Alley, currently running at Le Petit Theatre du Vieux Carre. The actress&#39; precise enunciation, aristocratic attitude and bouffant hairstyle elicit memories of another over-protective mother from the 1960s film Guess Who&#39;s Coming to Dinner.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-the-high-priestess-of-dark-alley/Content?oid=2992238&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2992238
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 18 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: Y&#x2019;all Dont Wanna Hear Us, You Just Wanna Dance!! and Of Myth, Fun &amp; Folly</title>
+    <link>http://www.bestofneworleans.com/gambit/review-yall-dont-wanna-hear-us-you-just-wanna-dance-and-of-myth-fun-and-folly/Content?oid=2992233</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-yall-dont-wanna-hear-us-you-just-wanna-dance-and-of-myth-fun-and-folly/Content?oid=2992233</guid>
+
+    
+    
+      <dc:creator>D. Eric Bookhardt</dc:creator>
+    
+
+    <description>
+      
+      
+
+      
+      Dreamy dimensions and reflections on the deaths of black men on St. Claude Avenue
+              
+              This month&#39;s Second Saturday gallery scene on St. Claude Avenue had everything from frivolity to gravitas, and on that deliriously hot and steamy evening, the sight of a nude woman mingling nonchalantly with the crowd at the New Orleans Art Center initially seemed more pragmatic than provocative. She was a burlesque dancer from a just-concluded performance, an event topped off with an impromptu German opera aria sung by tenor Joseph Fedor, which complemented the diverse, yet cohesively buoyant and mostly affordable work on the walls.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Art Review</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-yall-dont-wanna-hear-us-you-just-wanna-dance-and-of-myth-fun-and-folly/Content?oid=2992233&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2992233
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 18 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Tales of the Cocktail shakes up 2016</title>
+    <link>http://www.bestofneworleans.com/gambit/tales-of-the-cocktail-shakes-up-2016/Content?oid=2992148</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/tales-of-the-cocktail-shakes-up-2016/Content?oid=2992148</guid>
+
+    
+    
+      <dc:creator>Will Coviello</dc:creator>
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media2.fdncms.com/gambit/imager/u/blog/2992664/screen_shot_2016-07-18_at_8.59.51_pm.png&quot; width=&quot;599&quot; height=&quot;284&quot; /&gt;
+      The annual spirits conference returns July 19-24
+              
+              The United States won the space race. But we may have enjoyed it less.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Events Feature</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/tales-of-the-cocktail-shakes-up-2016/Content?oid=2992148&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2992148
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 18 Jul 2016 16:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Live theater in New Orleans this week (July 12-18, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/live-theater-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987620</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/live-theater-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987620</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2988166/innocents-3-1466783229.jpg&quot; width=&quot;190&quot; height=&quot;190&quot; style=&quot;display:block; float:right;&quot; /&gt;
+      The Wizard of OzThu.-Sun. July 14-24 | Gary Rucker directs the musical adaptation of Frank Baum&#39;s classic tale in which Dorothy hopes the Wizard of Oz can help her return home to Kansas.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/live-theater-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987620&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2987620
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 11 Jul 2016 15:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Food events in New Orleans this week (July 12-18, 2016)</title>
+    <link>http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987615</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987615</guid>
+
+    
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media2.fdncms.com/gambit/imager/u/blog/2988170/food.jpg&quot; width=&quot;150&quot; height=&quot;104&quot; style=&quot;display:block; float:right;&quot; /&gt;
+      July 14Bastille Day Celebration6 p.m-10 p.m. ThursdayArnaud&#39;s Restaurant, 813 Conti St., (504) 523-5433www.arnaudsrestaurant.comThe prixe fixe menu marking Bastille Day includes canapes and a Parisian spritz cocktail and a four-course meal paired with French wines.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">New Orleans Event Previews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/food-events-in-new-orleans-this-week-july-12-18-2016/Content?oid=2987615&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2987615
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 11 Jul 2016 15:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>The NOLA Project premieres immersive poolside play Exterior. Pool-Night</title>
+    <link>http://www.bestofneworleans.com/gambit/the-nola-project-premieres-immersive-poolside-play-exterior-pool-night/Content?oid=2987608</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/the-nola-project-premieres-immersive-poolside-play-exterior-pool-night/Content?oid=2987608</guid>
+
+    
+    
+      <dc:creator>Lauren LaBorde</dc:creator>
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2988169/7inseven.jpg&quot; width=&quot;599&quot; height=&quot;399&quot; /&gt;
+      The theater company blurs the lines between actor and audience
+              
+              At a run-through of The NOLA Project&#39;s newest original play, Exterior. Pool-Night, there&#39;s more to work out than nailing lines and figuring out blocking.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Events Feature</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/the-nola-project-premieres-immersive-poolside-play-exterior-pool-night/Content?oid=2987608&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2987608
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 11 Jul 2016 15:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+        <item>
+    <title>Review: The Killing of a Lesbian Bookie</title>
+    <link>http://www.bestofneworleans.com/gambit/review-the-killing-of-a-lesbian-bookie/Content?oid=2987589</link>
+    <guid isPermaLink="true">http://www.bestofneworleans.com/gambit/review-the-killing-of-a-lesbian-bookie/Content?oid=2987589</guid>
+
+    
+    
+      <dc:creator>Will Coviello</dc:creator>
+    
+
+    <description>
+      
+      
+
+      &lt;img src=&quot;http://media1.fdncms.com/gambit/imager/u/blog/2988178/stage-160712-1.jpg&quot; width=&quot;599&quot; height=&quot;399&quot; /&gt;
+      Jim Fitzmorris delivers a fast, smart and titillating crime story
+              
+              The title of Jim Fitzmorris&#39; latest drama, The Killing of a Lesbian Bookie, is racy, but it isn&#39;t long enough to accommodate all the crime, vice and prurience that quickly spilled onstage at The Theatre at St. Claude. Burlesque star Triple Lexxxi is preparing for the opening night of her bar and club a when beer purveyor, nicknamed Irish, drops by with what turns out to be an offer that&#39;s hard to refuse.&#x2026;
+      
+    </description>
+
+    
+    
+      <category domain="foundation:category">Stage Previews and Reviews</category>
+    
+
+    
+
+    
+    <comments>
+      http://www.bestofneworleans.com/gambit/review-the-killing-of-a-lesbian-bookie/Content?oid=2987589&amp;show=comments#readerComments
+    </comments>
+    <wfw:commentRss>
+      http://www.bestofneworleans.com/gambit/Rss.xml?id=comments&amp;oid=2987589
+    </wfw:commentRss>
+    <slash:comments>
+      0
+    </slash:comments>
+
+    <pubDate>Mon, 11 Jul 2016 15:00:00 -0500</pubDate>
+    <source url="http://www.bestofneworleans.com">Gambit</source>
+  </item>
+      
+      
+    </channel>
+  </rss>
+
+
+

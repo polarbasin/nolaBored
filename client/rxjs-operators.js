@@ -5,16 +5,16 @@ require('rxjs/Rx'); // adds ALL RxJS statics & operators to Observable
 // Statics
 require('rxjs/add/observable/throw');
 // Operators
-require('rxjs/add/operator/catch.js');
-require('rxjs/add/operator/debounceTime.js');
-require('rxjs/add/operator/distinctUntilChanged.js');
-require('rxjs/add/operator/map.js');
-require('rxjs/add/operator/switchMap.js');
-require('rxjs/add/operator/toPromise.js');
-require('rxjs/util/root.js');
-require('rxjs/symbol/observable.js');
-require('rxjs/util/ObjectUnsubscribedError.js');
-require('rxjs/observable/PromiseObservable.js');
-require('rxjs/Observable.js');
-require('rxjs/Subject.js');
+require('rxjs/add/operator/catch');
+require('rxjs/add/operator/debounceTime');
+require('rxjs/add/operator/distinctUntilChanged');
+require('rxjs/add/operator/map');
+require('rxjs/add/operator/switchMap');
+require('rxjs/add/operator/toPromise');
+require('rxjs/util/root');
+require('rxjs/symbol/observable');
+require('rxjs/util/ObjectUnsubscribedError');
+require('rxjs/observable/PromiseObservable');
+require('rxjs/Observable');
+require('rxjs/Subject');
 //# sourceMappingURL=rxjs-operators.js.map
