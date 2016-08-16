@@ -30,10 +30,9 @@ h1 {
 }
 
 .question {
-  color: #00506b;
-  font-family: 'Helvetica Neue', sans-serif;
-  background-color: #00506b;
   color: transparent;
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #00506A;
   text-shadow: 0px 2px 3px rgba(255,255,255,0.2);
   -webkit-background-clip: text;
      -moz-background-clip: text;
@@ -56,10 +55,14 @@ h1 {
 }
 
 #event {
-  min-height: 10em;
-  min-width: 10em;
+  min-height: 20em;
   color: black;
+  background-color: #ffffff;
+  margin: 1;
   padding: 0;
+  -webkit-box-shadow: -10px 8px 15px -4px rgba(0, 0, 0, 0.38);
+  -moz-box-shadow:    -10px 8px 15px -4px rgba(0, 0, 0, 0.38);
+  box-shadow:         -10px 8px 15px -4px rgba(0, 0, 0, 0.38);
   -webkit-transition:  All 1s ease-in-out;
   -webkit-transition: all 200ms ease-in;
   -webkit-transform: scale(1); 
@@ -85,11 +88,15 @@ h1 {
   transform: scale(1.5);
 }
 
+p {
+  padding-top: 1em;
+  word-wrap: break-word;
+}
+
 body {
-  background-color: black;
   text-align: center;
   color: white;
-  background-color: #00506b;
+  background-color: #00506A;
 }
 
 #header {
