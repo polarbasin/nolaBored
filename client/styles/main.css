@@ -44,11 +44,8 @@ h1 {
   margin-top: 15em;
 }
 
-.row {
-  margin: 0;
-}
-
 .events {
+  padding-left: 1.6em;
   height: auto;
   width: auto;
   display: block;
@@ -56,9 +53,10 @@ h1 {
 
 #event {
   min-height: 20em;
+  max-width: 20em;
   color: black;
   background-color: #ffffff;
-  margin: 1;
+  margin: 4;
   padding: 0;
   -webkit-box-shadow: -10px 8px 15px -4px rgba(0, 0, 0, 0.38);
   -moz-box-shadow:    -10px 8px 15px -4px rgba(0, 0, 0, 0.38);
@@ -100,10 +98,10 @@ body {
 }
 
 #header {
+  padding-left: 30%;  
   position: absolute;
   top: 0;
   left: 0;
-  right: 0;
   width: 100%;
   height: 200px;
   z-index: -1;
