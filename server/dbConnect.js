@@ -1,3 +1,4 @@
+//database connection
 var mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost:27017/events');
 // mongoose.connect(process.env.MONGO_URI);
