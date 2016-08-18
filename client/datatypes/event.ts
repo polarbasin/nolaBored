@@ -1,9 +1,11 @@
 export class Event {
-  _id: number;
-  title: string;
-  location: string;
-  time: number; 
-  link: string;
-  author: string;
-  description: string;
+  constructor (
+  public _id: number,
+  public title: string,
+  public location: string,
+  public time: number, 
+  public link?: string,
+  public description?: string,  
+  public author?: string
+  ) { }
 }

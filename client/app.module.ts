@@ -2,6 +2,8 @@ import { BrowserModule }           from '@angular/platform-browser';
 import { HttpModule, JsonpModule } from '@angular/http';
 import { NgModule }                from '@angular/core';
 import { AppComponent }            from './app.component';
+import { AppLayoutComponent }      from './app-layout.component';
+import { EventFormComponent }      from './event-form.component';
 
 @NgModule({
   imports: [
@@ -9,7 +11,9 @@ import { AppComponent }            from './app.component';
     HttpModule,
     JsonpModule,
   ],
-  declarations: [ AppComponent ],
+  declarations: [ AppComponent, 
+                  AppLayoutComponent,
+                  EventFormComponent ],
   bootstrap: [ AppComponent ]
 })
 

@@ -12,23 +12,4 @@ export class EventService {
     this.events = http.get(this.eventsUrl)
                       .map(response => response.json()); 
   }
-
-  public getEvents(): Promise<Event[]> {
-    return this.http.get(this.eventsUrl)
-               .toPromise()
-               .then(this.extractData)
-               .catch(this.handleError);
-  }
-
-  public extractData(res: Response) {
-    let body = res.json();
-    return body.data || { };
-  }
-
-  public handleError(error: any) {
-   let errMsg = (error.message) ? error.message :
-   error.status ? `${error.status} - ${error.statusText}` : 'Server error';
-   console.error(errMsg); // log to console instead
-   return Promise.reject(errMsg);
-  }
 }
