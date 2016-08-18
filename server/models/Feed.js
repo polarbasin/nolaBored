@@ -1,3 +1,4 @@
+//schema for Users or feed, whoever post to data base
 var mongoose = require('mongoose');
 
 var feedSchema = mongoose.Scheme({
