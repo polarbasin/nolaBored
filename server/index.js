@@ -7,9 +7,9 @@ const $ = require('jquery');
 const bodyParser = require('body-parser');
 const jsonParser = bodyParser.json();
 const rss = require('./rss.js');
-const eventController = require('./controllers/eventControll');
+const eventController = require('./controllers/eventcontroller');
 const db = require('./dbConnect');
-const Event = require('../models/Event.js');
+const Event = require('./models/Event.js');
 
 app.use(morgan('dev'));
 

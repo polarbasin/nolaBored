@@ -1,5 +1,5 @@
 //makes request and parses data
-var saveEvent = require('../controllers/eventController');
+var saveEvent = require('./controllers/eventController');
 var rp = require('request-promise');
 var FeedMe = require('feedme')
   , parser = new FeedMe()
