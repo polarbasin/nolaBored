@@ -1,3 +1,20 @@
+client/app-layout.component.js
+client/app-layout.component.js.map
+client/app.component.js
+client/app.component.js.map
+client/app.module.js
+client/app.module.js.map
+client/event-form.component.js
+client/event-form.component.js.map
+client/event.service.js
+client/event.service.js.map
+client/index.js
+client/index.js.map
+client/rxjs-operators.js
+client/rxjs-operators.js.map
+client/datatypes/event.js
+client/datatypes/event.js.map
+
 ### node etc ###
 read.txt
 # Logs
