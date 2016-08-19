@@ -7,10 +7,10 @@ const saveEvent = (createdEvent) => {
     link: createdEvent.link,
     description: createdEvent.description
   });
-    event.save(function(err, result){
-      //res.json(result)
-      if (err) return console.error('err')
-    });
+  event.save(function(err, result){
+    //res.json(result)
+    if (err) return console.error('err');
+  });
 };
 
 module.exports = saveEvent;

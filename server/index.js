@@ -43,20 +43,20 @@ app.use('/client/datatypes/event.js', express.static('client/datatypes/event.js'
 // post events to page
 app.get('/api/events', (req,res) => {
   Event.find((err, event) => {
-    if (err) res.send(err);
-    else     res.send(event);
-  })
-
+    if (err){
+      res.send(err);
+    } else {
+      res.send(event);
+    }
+  });
 });
 
 const port = process.env.PORT || 4657;
 
-
 //these lines will parse the information out of the file where we load the rss fead
 const feed = 'http://www.bestofneworleans.com/gambit/Rss.xml?section=1222783';
 rss.requestRSS(feed);
-rss.request();
-
+// rss.request();
 
 app.listen(port, () => {
   console.log(`Listening on port: ${port}`);

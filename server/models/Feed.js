@@ -6,15 +6,17 @@ var feedSchema = mongoose.Scheme({
   copyright: String
 });
 
-var Feed = mongoose.model("Feed", feedSchema);
+var Feed = mongoose.model('Feed', feedSchema);
 
 var openFeed = new Feed({
   name: 'this is the feed',
   copyright: 'some copyright'
 });
 
-openFeed.save(function(err, opsk){
-  if (err) return console.error('err')
+openFeed.save(function(err){
+  if (err) {
+    return console.error('err');
+  }
 });
 
 exports.feedSchema = feedSchema;

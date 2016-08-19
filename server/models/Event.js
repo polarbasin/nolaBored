@@ -7,7 +7,7 @@ const eventSchema = mongoose.Schema({
   link: String,
   author: String,
   description: String
-})
+});
 
 const Event = mongoose.model('Event', eventSchema);
 
