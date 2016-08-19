@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es6",
     "module": "commonjs",
     "moduleResolution": "node",
     "sourceMap": true,
@@ -9,9 +9,14 @@
     "removeComments": false,
     "noImplicitAny": false
   },
-  "exclude": [
-    "node_modules",
-    "typings/node",
-    "typings/globals"
+  "files": [
+    "client/app-layout.component.ts",
+    "client/app.component.ts",
+    "client/app.module.ts",
+    "client/event-form.component.ts",
+    "client/event.service.ts",
+    "client/index.ts",
+    "client/rxjs-operators.ts",
+    "client/datatypes/event.ts"
   ]
 }
