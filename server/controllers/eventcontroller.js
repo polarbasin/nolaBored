@@ -2,8 +2,10 @@ var Event = require('../models/Event.js');
 
 const getImgUrl = str => {
   let results = /<img\s*src\s*=\s*(")(\S+)\1/.exec(str);
-  return results ? results[2] : 'https://placehold.it/50x50';
+  return results ? results[2] : '../styles/placeholder.png';
 };
+
+// 'https://placehold.it/225x175'
 
 const saveEvent = (createdEvent) => {
   var event = new Event({

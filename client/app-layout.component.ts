@@ -15,7 +15,7 @@ import { EventService } from './event.service';
               <a target="_new" href="{{event.link}}">
                 <h3>{{ event.title }}</h3>
               </a>
-              <img src="{{ event.imgUrl }}" max-width=20em max-height=15em >
+              <img src="{{ event.imgUrl }}">
             </div>
           </div>
         </div>
