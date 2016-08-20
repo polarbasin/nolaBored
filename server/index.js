@@ -1,21 +1,30 @@
 const express = require('express');
-const path = require('path');
 const app = express();
-const router = express.Router();
 const morgan = require('morgan');
-const $ = require('jquery');
 const bodyParser = require('body-parser');
-const jsonParser = bodyParser.json();
+const passport = require('passport');
+const session = require('express-session');
+
 const rss = require('./rss.js');
-const eventController = require('./controllers/eventcontroller');
-const db = require('./dbConnect');
 const Event = require('./models/Event.js');
+require('./dbConnect');
+require('./config/passport')(passport);
 
 app.use(morgan('dev'));
 
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
-//todo  move to router page
+// auth
+app.use(session({
+  secret: process.env.SESS_SECRET,
+  resave: true,
+  saveUninitialized: true,
+}));
+app.use(passport.initialize());
+app.use(passport.session());
+
+// todo  move to router page
 app.use('/', express.static('client/')); 
 
 app.use('/node_modules', express.static('node_modules/'));
@@ -39,6 +48,16 @@ app.use('/client/app-layout.component.js', express.static('client/app-layout.com
 app.use('/client/rxjs-operators.js', express.static('client/rxjs-operators.js'));
 
 app.use('/client/datatypes/event.js', express.static('client/datatypes/event.js'));
+
+// facebook auth
+app.get('/login/facebook', 
+  passport.authenticate('facebook'));
+
+app.get('/auth/facebook/callback', 
+  passport.authenticate('facebook', { failureRedirect: '/' }), // need a failure route
+  (req, res) => {
+    res.redirect('/');
+  });
 
 // post events to page
 app.get('/api/events', (req,res) => {
