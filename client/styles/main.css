@@ -22,11 +22,17 @@ h1 {
 }
 
 .loading {
-  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-family: 'Helvetica Neue', sans-serif;
   color: white;
-  font-size: 2em;
+  font-size: 5em;
   text-align: center;
   position: relative;
+  margin-top: 2em;
+}
+
+.loadBar {
+  margin-top: 5em;
+  width: 15em;
 }
 
 .question {
@@ -42,6 +48,7 @@ h1 {
 .container {
   padding: 0;
   margin-top: 15em;
+  margin-bottom: 1em;
 }
 
 .events {
