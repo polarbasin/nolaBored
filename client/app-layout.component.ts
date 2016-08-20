@@ -6,11 +6,16 @@ import { EventService } from './event.service';
 @Component({
   selector: 'app-layout',
   template:
-  `<div class="col-md-12" id="header"><h1>BORED<span class="question">?</span></h1></div>
+  `<div class="col-md-12" id="header"><h1>BORED<span class="question">?</span></h1>
+    <form action="index.html" class="login">
+      <h3>Add your own events!</h3>
+      <input type="submit" value="Login with facebook" class="login-submit">
+    </form>
+  </div>
     <div class="container">
       <div class="events">
         <div class="row">
-          <div class="col-md-4" id="event" *ngFor="let event of events | slice:0:12; let i = index">
+          <div class="col-md-4" id="event" *ngFor="let event of events | slice:0:24; let i = index">
             <div class="details">
               <a target="_new" href="{{event.link}}">
                 <h3>{{ event.title }}</h3>
