@@ -74,6 +74,12 @@ h1 {
   overflow: hidden;
 }
 
+img {
+  max-width: 225px;
+  max-height: 175px;
+  float: bottom;
+}
+
 #event:hover {
   box-shadow: 0px 0px 150px #000000;
   z-index: 2;
@@ -92,8 +98,12 @@ p {
   word-wrap: break-word;
 }
 
+h3 {
+  font-size: 1.4em;
+}
+
 a {
-  word-wrap: break-word;  
+  word-wrap: break-word;
 }
 
 body {
