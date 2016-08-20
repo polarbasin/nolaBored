@@ -1,3 +1,5 @@
+.env
+
 client/app-layout.component.js
 client/app-layout.component.js.map
 client/app.component.js
