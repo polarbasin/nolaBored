@@ -22,11 +22,17 @@ h1 {
 }
 
 .loading {
-  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-family: 'Helvetica Neue', sans-serif;
   color: white;
-  font-size: 2em;
+  font-size: 5em;
   text-align: center;
   position: relative;
+  margin-top: 2em;
+}
+
+.loadBar {
+  margin-top: 5em;
+  width: 15em;
 }
 
 .question {
@@ -41,7 +47,8 @@ h1 {
 
 .container {
   padding: 0;
-  margin-top: 15em;
+  margin-top: 5em;
+  margin-bottom: 5em;
 }
 
 .events {
@@ -99,7 +106,7 @@ p {
 }
 
 h3 {
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
 
 a {
@@ -122,7 +129,72 @@ body {
   z-index: -1;
 }
 
-.form-group {
-  max-width: 10em;
-  max-height: 10em;
+.form {
+  background-color: blue;
+}
+
+.event-form {
+  margin: auto;
+  margin-top: 15em;
+  width: 20%;
+}
+
+::-moz-focus-inner { padding: 0; border: 0 }
+:-moz-placeholder { color: #bcc0c8 !important; }
+::-webkit-input-placeholder { color: #bcc0c8; }
+:-ms-input-placeholder { color: #bcc0c8 !important; }
+
+input, textarea, select, label {
+  font-family: inherit;
+  font-size: 12px;
+  @include box-sizing(border-box);
+}
+
+.login {
+  float: right;
+  margin: 50px auto;
+  margin-top: 10px;
+  padding: 0px 18px 20px;
+  width: 300px;
+  background: #3f65b7;
+  background-clip: padding-box;
+  border: 1px solid #172b4e;
+  border-radius: 5px;
+  border-bottom-color: #142647;
+  @include radial-gradient(cover, #437dd6, #3960a6);
+  @include box-shadow(inset 0 1px rgba(white, .3), inset 0 0 1px 1px rgba(white, .1), 0 2px 10px rgba(black, .5));
+
+  > h3 {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-shadow: 0 -1px rgba(black, .4);
+  }
+}
+
+.login-submit {
+  display: block;
+  width: 100%;
+  height: $inputHeight;
+  font-size: 14px;
+  font-weight: bold;
+  color: #294779;
+  text-align: center;
+  text-shadow: 0 1px rgba(white, .3);
+  background: #adcbfa;
+  background-clip: padding-box;
+  border: 1px solid #284473;
+  border-bottom-color: #223b66;
+  border-radius: 4px;
+  cursor: pointer;
+  @include linear-gradient(top, #d0e1fe, #96b8ed);
+  @include box-shadow(inset 0 1px rgba(white, .5), inset 0 0 7px rgba(white, .4), 0 1px 1px rgba(black, .15));
+
+  &:active {
+    background: #a4c2f3;
+    @include box-shadow(inset 0 1px 5px rgba(black, .4), 0 1px rgba(white, .1));
+  }
 }
