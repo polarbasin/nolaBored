@@ -30,13 +30,13 @@ module.exports = passport => {
         if (user) {
           return done(null, user);
         } else {
+          console.log('user:', profile);
           const newUser = new User({
             facebook: {
               id: profile.id,
-              displayName: profile.name,
-              firstName: profile.first_name,
-              lastName: profile.last_name,
-              email: profile.email
+              displayName: profile.displayName,
+              email: profile.email,
+              firstName: profile.displayName.split(' ')[0],
             },
           });
 

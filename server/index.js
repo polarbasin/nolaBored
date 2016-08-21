@@ -7,6 +7,7 @@ const session = require('express-session');
 
 const rss = require('./rss.js');
 const Event = require('./models/Event.js');
+const fbAuth = require('./config/facebook_passport');
 require('./dbConnect');
 require('./config/passport')(passport);
 
@@ -53,11 +54,8 @@ app.use('/client/datatypes/event.js', express.static('client/datatypes/event.js'
 app.get('/login/facebook', 
   passport.authenticate('facebook'));
 
-app.get('/auth/facebook/callback', 
-  passport.authenticate('facebook', { failureRedirect: '/' }), // need a failure route
-  (req, res) => {
-    res.redirect('/');
-  });
+app.route('/auth/facebook/callback')
+  .get(passport.authenticate('facebook', fbAuth.config));
 
 // post events to page
 app.get('/api/events', (req,res) => {
