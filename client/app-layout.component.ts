@@ -7,7 +7,7 @@ import { EventService } from './event.service';
   selector: 'app-layout',
   template:
   `<div class="col-md-12" id="header"><h1>BORED<span class="question">?</span></h1>
-    <form action="index.html" class="login">
+    <form action="/login/facebook" class="login">
       <h3>Add your own events!</h3>
       <input type="submit" value="Login with facebook" class="login-submit">
     </form>
