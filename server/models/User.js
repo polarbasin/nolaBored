@@ -8,7 +8,6 @@ const User = new Schema({
     displayName: String,
     email: String,
     firstName: String,
-    lastName: String, 
   }
 });
 
