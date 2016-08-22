@@ -16,7 +16,7 @@ module.exports = {
     console.log('user', req.user);
     console.log('event', event);
     saveEvent(event);
-    res.send(event);
+    res.redirect('/');
   },
   isAuthenticated: (req, res, next) => {
     let not = req.isAuthenticated() ? '' : 'NOT ';
