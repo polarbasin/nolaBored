@@ -14,6 +14,8 @@
     "client/app.component.ts",
     "client/app.module.ts",
     "client/event-form.component.ts",
+    "client/login-form.component.ts",
+    "client/login.component.ts",
     "client/event.service.ts",
     "client/index.ts",
     "client/rxjs-operators.ts",

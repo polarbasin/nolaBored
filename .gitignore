@@ -1,7 +1,13 @@
 .env
 
 client/app-layout.component.js
+client/login.component.js
+client/login.component.js.map
+client/login-form.component.js
+client/login-form.component.js.map
 client/app-layout.component.js.map
+client/app.routes.js.map
+client/app.routes.js
 client/app.component.js
 client/app.component.js.map
 client/app.module.js
