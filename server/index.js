@@ -4,9 +4,8 @@ const morgan = require('morgan');
 const bodyParser = require('body-parser');
 const passport = require('passport');
 const session = require('express-session');
-
+const handlers = require('./handlers');
 const rss = require('./rss.js');
-const Event = require('./models/Event.js');
 const fbAuth = require('./config/facebook_passport');
 require('./dbConnect');
 require('./config/passport')(passport);
@@ -58,15 +57,9 @@ app.route('/auth/facebook/callback')
   .get(passport.authenticate('facebook', fbAuth.config));
 
 // post events to page
-app.get('/api/events', (req,res) => {
-  Event.find((err, event) => {
-    if (err){
-      res.send(err);
-    } else {
-      res.send(event);
-    }
-  });
-});
+app.route('/api/events')
+  .get(handlers.getEvents)
+  .post(handlers.postEvent);
 
 const port = process.env.PORT || 4657;
 
