@@ -8,7 +8,7 @@ import { EventService } from './event.service';
   selector: 'app-layout',
   template:
   `<div class="col-md-12" id="header"><h1>BORED<span class="question">?</span></h1>
-    <login-form></login-form>
+    <login-button></login-button>
   </div>
     <div class="container">
       <div class="events">

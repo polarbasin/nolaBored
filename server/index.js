@@ -32,7 +32,7 @@ app.use('/node_modules', express.static('node_modules/'));
 app.use('/client/index.js', express.static('client/index.js'));
 app.use('/client/app.module.js', express.static('client/app.module.js'));
 app.use('/client/app.routes.js', express.static('client/app.routes.js'));
-app.use('/client/login-form.component.js', express.static('client/login-form.component.js'));
+app.use('/client/login-button.component.js', express.static('client/login-button.component.js'));
 app.use('/client/login.component.js', express.static('client/login.component.js'));
 app.use('/client/event.service.js', express.static('client/event.service.js'));
 app.use('/client/event-form.component.js', express.static('client/event-form.component.js'));
