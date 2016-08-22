@@ -3,23 +3,67 @@ import { Component } from '@angular/core';
 
 @Component({
     selector: 'event-form',
-    template: `<div class="event-form">
-    <h3>Add your own event</h3>
-    <form>
-      
-      <div class="form-group">
-        <label for="title">Event Name</label>
-        <input type="text" class="form-control" id="title" required>
-      </div>
+    template: `<form class="form-horizontal" action="/api/events" method="post">
+<fieldset>
 
-      <div class="form-group">
-        <label for="link">Event Link</label>
-        <input type="text" class="form-control" id="link">
-      </div>
+<!-- Form Name -->
+<legend>Add your own event</legend>
 
-      <button type="submit" class="btn btn-default">Submit</button>
-    </form>
-    </div>` 
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="Title">Event Name</label>  
+  <div class="col-md-5">
+  <input id="Title" name="Title" type="text" placeholder="My event" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="Link">Event Link</label>  
+  <div class="col-md-5">
+  <input id="Link" name="Link" type="text" placeholder="www.event.com" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="imgUrl">Image Link</label>  
+  <div class="col-md-5">
+  <input id="imgUrl" name="imgUrl" type="text" placeholder="www.event.com/picture.jpg" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="desc">Description</label>
+  <div class="col-md-3">                     
+    <textarea class="form-control" id="description" placeholder="..." name="desc"></textarea>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="eventDate">Event Date</label>  
+  <div class="col-md-5">
+  <input id="eventDate" name="eventDate" type="date" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="submit"></label>
+  <div class="col-md-4">
+    <button id="submit" name="submit" class="btn btn-primary">Submit</button>
+  </div>
+</div>
+
+</fieldset>
+</form>` 
 })
 
 export class EventFormComponent { }

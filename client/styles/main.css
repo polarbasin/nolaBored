@@ -129,26 +129,26 @@ body {
   z-index: -1;
 }
 
-.form {
-  background-color: blue;
-}
-
 .event-form {
   margin: auto;
   margin-top: 15em;
-  width: 20%;
+  width: 80%;
+}
+
+legend {
+  color: white;
+  font-size: 5em;
+  font: bold;
+}
+
+.form-horizontal {
+  background-color: #0099cc;
 }
 
 ::-moz-focus-inner { padding: 0; border: 0 }
 :-moz-placeholder { color: #bcc0c8 !important; }
 ::-webkit-input-placeholder { color: #bcc0c8; }
 :-ms-input-placeholder { color: #bcc0c8 !important; }
-
-input, textarea, select, label {
-  font-family: inherit;
-  font-size: 12px;
-  @include box-sizing(border-box);
-}
 
 .login {
   float: right;
