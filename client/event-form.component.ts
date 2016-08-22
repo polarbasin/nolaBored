@@ -17,6 +17,21 @@ import { Component } from '@angular/core';
         <input type="text" class="form-control" id="link">
       </div>
 
+      <div class="form-group">
+        <label for="link">Image link</label>
+        <input type="text" class="form-control" id="link">
+      </div>
+
+      <div class="form-group">
+        <label for="title">Event description</label>
+        <input type="text" class="form-control" id="description" required>
+      </div>
+
+      <div class="form-group">
+        <label for="title">Event Date</label>
+        <input type="text" class="form-control" id="date" required>
+      </div>
+
       <button type="submit" class="btn btn-default">Submit</button>
     </form>
     </div>` 
