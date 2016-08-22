@@ -1,4 +1,5 @@
 const Event = require('../models/Event.js');
+const saveEvent = require('../controllers/eventcontroller');
 
 module.exports = {
   getEvents: (req, res) => {
@@ -13,6 +14,7 @@ module.exports = {
   postEvent: (req, res) => {
     let event = req.body;
     console.log(event);
+    saveEvent(event);
     res.send(event);
   },
 };

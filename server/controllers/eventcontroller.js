@@ -5,14 +5,17 @@ const getImgUrl = str => {
   return results ? results[2] : '../styles/placeholder.png';
 };
 
-const saveEvent = createdEvent => {
-  var event = new Event({
-    title: createdEvent.title,
-    link: createdEvent.link,
-    description: createdEvent.description,
-    imgUrl: getImgUrl(createdEvent.description),
+const saveEvent = event => {
+  var newEvent = new Event({
+    title: event.title,
+    link: event.link,
+    description: event.description,
+    imgUrl: event.imgUrl || getImgUrl(event.description),
+    // extras
+    // time: event.eventData,
+    // postedBy: event.userID,
   });
-  event.save(err => {
+  newEvent.save(err => {
     if (err) return console.error('err');
   });
 };
