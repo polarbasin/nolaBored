@@ -50,7 +50,7 @@ app.use('/client/rxjs-operators.js', express.static('client/rxjs-operators.js'))
 app.use('/client/datatypes/event.js', express.static('client/datatypes/event.js'));
 
 // facebook auth
-app.get('/login/facebook', 
+app.get('/login/facebook',
   passport.authenticate('facebook'));
 
 app.route('/auth/facebook/callback')
@@ -58,8 +58,8 @@ app.route('/auth/facebook/callback')
 
 // post events to page
 app.route('/api/events')
-  .get(handlers.getEvents)
-  .post(handlers.postEvent);
+  .get(handlers.isAuthenticated, handlers.getEvents)
+  .post(handlers.isAuthenticated, handlers.postEvent);
 
 const port = process.env.PORT || 4657;
 

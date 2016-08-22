@@ -13,8 +13,21 @@ module.exports = {
   },
   postEvent: (req, res) => {
     let event = req.body;
-    console.log(event);
+    console.log('user', req.user);
+    console.log('event', event);
     saveEvent(event);
     res.send(event);
+  },
+  isAuthenticated: (req, res, next) => {
+    let not = req.isAuthenticated() ? '' : 'NOT ';
+    console.log(`User is ${not}authenticated`);
+    // if user is authenticated in the session, call the next() to call the next request handler 
+    // Passport adds this method to request object. A middleware is allowed to add properties to
+    // request and response objects
+    if (req.isAuthenticated()) {
+      return next();
+    }
+    // if the user is not authenticated then redirect him to the login page
+    res.redirect('/');
   },
 };
