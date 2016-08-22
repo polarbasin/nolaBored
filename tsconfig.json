@@ -15,6 +15,7 @@
     "client/app.module.ts",
     "client/event-form.component.ts",
     "client/login-button.component.ts",
+    "client/add-event-button.component.ts",
     "client/login.component.ts",
     "client/event.service.ts",
     "client/index.ts",
