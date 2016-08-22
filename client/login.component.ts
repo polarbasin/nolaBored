@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'login',
   template: `
     <div>
-      <login-form></login-form>
+      <login-button></login-button>
     </div>
   `
 })

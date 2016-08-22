@@ -3,8 +3,10 @@
 client/app-layout.component.js
 client/login.component.js
 client/login.component.js.map
-client/login-form.component.js
-client/login-form.component.js.map
+client/login-button.component.js
+client/add-event-button.component.js
+client/login-button.component.js.map
+client/add-event-button.component.js.map
 client/app-layout.component.js.map
 client/app.routes.js.map
 client/app.routes.js
