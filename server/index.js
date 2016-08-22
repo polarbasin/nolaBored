@@ -58,7 +58,7 @@ app.route('/auth/facebook/callback')
 
 // post events to page
 app.route('/api/events')
-  .get(handlers.isAuthenticated, handlers.getEvents)
+  .get(handlers.getEvents)
   .post(handlers.isAuthenticated, handlers.postEvent);
 
 const port = process.env.PORT || 4657;
