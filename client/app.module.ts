@@ -4,6 +4,7 @@ import { NgModule }                from '@angular/core';
 import { AppComponent }            from './app.component';
 import { AppLayoutComponent }      from './app-layout.component';
 import { EventFormComponent }      from './event-form.component';
+import { APP_ROUTES_PROVIDER }     from './app.routes';
 
 @NgModule({
   imports: [
@@ -11,9 +12,14 @@ import { EventFormComponent }      from './event-form.component';
     HttpModule,
     JsonpModule,
   ],
-  declarations: [ AppComponent, 
-                  AppLayoutComponent,
-                  EventFormComponent ],
+  declarations: [ 
+    AppComponent, 
+    AppLayoutComponent,
+    EventFormComponent
+  ],
+  providers: [
+    APP_ROUTES_PROVIDER
+  ],
   bootstrap: [ AppComponent ]
 })
 
