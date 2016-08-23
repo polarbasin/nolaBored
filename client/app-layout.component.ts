@@ -15,7 +15,7 @@ import { EventService } from './event.service';
     <div class="container">
       <div class="events">
         <div class="row">
-          <div class="col-md-4" id="event" *ngFor="let event of events | slice:0:24; let i = index">
+          <div class="col-md-4" id="event" *ngFor="let event of events; let i = index">
             <div class="details">
               <a target="_new" href="{{event.link}}">
                 <h3>{{ event.title }}</h3>
