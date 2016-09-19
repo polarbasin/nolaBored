@@ -1,12 +1,11 @@
 # Bored
 
-> Pitchy project description
 
 ## Team
 
-  - __Product Owner__: Neal Taylor
-  - __Scrum Master__: Kendall Spears
-  - __Development Team Members__: Kendall Spears, Neal Taylor
+  - __Product Owner__: Daniel Glaser
+  - __Scrum Master__: Harvey Sanders
+  - __Development Team Members__: Daniel Glaser, Harvey Sanders
 
 ## Table of Contents
 
@@ -24,11 +23,9 @@
 
 ## Requirements
 
-- Node 0.10.x
-- Redis 2.6.x
-- Postgresql 9.1.x
-- etc
-- etc
+- Node 5.11.x
+- npm 3.10.x
+- Mongo 3.2.9
 
 ## Development
 
@@ -36,15 +33,13 @@
 
 From within the root directory:
 
-```sh
-sudo npm install -g bower
+```
 npm install
-bower install
 ```
 
 ### Roadmap
 
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
+View the project roadmap [here](https://github.com/polarbasin/nolaBored/issues)
 
 
 ## Contributing
