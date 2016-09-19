@@ -1,4 +1,4 @@
-# Bored
+# NolaBored
 
 
 ## Team
